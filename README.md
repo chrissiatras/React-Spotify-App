@@ -29,7 +29,7 @@ We will create a music app to search for artists and we add some of them in a fa
 * Create another choice in the navbar menu, Youtube.
 * When user clicks on Youtube will go in home page ('/youtube-app')
 
-### Favorite page
+### Youtube page
 * We should display an input field in which user will type the video name he want to seach in Youtube.
 * When we have videos we should display them in a list below input field.
 * Between input and videoList there should be shown the first video of the videoList.
