@@ -30,6 +30,8 @@ class YoutubeApp extends Component {
     }
 
     render() {
+
+      // throttling search term 
       const videoSearch = _.debounce((term) => { this.videoSearch(term) }, 300);
 
       return (

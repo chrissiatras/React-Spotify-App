@@ -24,9 +24,12 @@
 	cursor: pointer;
 	border: 1px solid #ddd;
 }
-
 .list-group-item:hover {
 	background-color: #eee;
+}
+
+#videotitle {
+	font-weight: bold;
 }
 
 
