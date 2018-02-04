@@ -37,4 +37,22 @@ We will create a music app to search for artists and we add some of them in a fa
 * Each videoListItem card will thumbnail of the video and a title.
 
 
+## If you want to run the app download the repository
+
+$ git clone https://github.com/chrissiatras/React-Spotify-App.git
+
+$ cd spotify-app
+
+$ npm install
+
+$ npm run server (to turn on the db.json)
+
+$ npm run start (in other terminal window, different from the server)
+
+
+
+
+
+
+
 
